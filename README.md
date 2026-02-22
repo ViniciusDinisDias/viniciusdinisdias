@@ -45,10 +45,11 @@ Além da formação técnica, estou investindo fortemente em **cursos complement
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ViniciusDinisDias&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusDinisDias&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=viniciusdinisdias&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusdinisdias&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
+---
 ---
 
 ## 🌱 Objetivos Atuais
