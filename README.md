@@ -45,8 +45,8 @@ Além da formação técnica, estou investindo fortemente em **cursos complement
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=viniciusdinisdias&show_icons=true&theme=tokyonight" />
-  <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=viniciusdinisdias&layout=compact&theme=tokyonight" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=viniciusdinisdias&show_icons=true&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusdinisdias&layout=compact&theme=tokyonight"/>
 </div>
 
 ---
