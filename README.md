@@ -41,13 +41,25 @@ Além da formação técnica, estou investindo fortemente em **cursos complement
 - 🏆 Certificados disponíveis no meu **LinkedIn**
 
 ---
-
-## 📊 GitHub Stats
+## 🔥 Sequência de contribuições
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=viniciusdinisdias&show_icons=true&theme=tokyonight"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusdinisdias&layout=compact&theme=tokyonight"/>
+
+<img src="https://streak-stats.demolab.com?user=viniciusdinisdias&theme=tokyonight&hide_border=true"/>
+
 </div>
+
+---
+
+## 📈 Atividade no GitHub
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=viniciusdinisdias&theme=tokyo-night"/>
+
+---
+
+## 🌎 Contador de visitas
+
+![Profile views](https://komarev.com/ghpvc/?username=viniciusdinisdias\&color=blue)
 
 ---
 
